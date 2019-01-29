@@ -1,5 +1,8 @@
 /// Life - Death - Score
 
+// DEBUG
+if(keyboard_check_pressed(vk_escape)){game_restart()}
+
 // Win Condition
 if(frogs_on_pads >= 5){
 	player_score += 1000
