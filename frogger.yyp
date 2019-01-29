@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "015d959e-1c1d-4953-8c13-703c1e4ed819",
+            "Value": {
+                "id": "82da580e-cf8a-4f47-94a5-17bda6f7e6dc",
+                "resourcePath": "objects\\o_car_small\\o_car_small.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0a3e4cd8-18c4-465b-9575-6e849b176be8",
             "Value": {
                 "id": "44f70c1d-3bed-4107-9418-440fc882a0fc",
@@ -84,6 +92,14 @@
                 "id": "1798ef40-8066-40e9-bd53-ac513eb9d1d5",
                 "resourcePath": "rooms\\r_main\\r_main.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2cd477cb-4ef7-4b60-9841-6aa76e14f665",
+            "Value": {
+                "id": "2170e1aa-19fa-43f3-91f7-db276207108a",
+                "resourcePath": "sprites\\s_car_medium\\s_car_medium.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,6 +175,22 @@
             }
         },
         {
+            "Key": "70ba6036-7263-49c9-a159-c8838a580eba",
+            "Value": {
+                "id": "4a7d5980-5f9f-4e97-9f85-9642b330216c",
+                "resourcePath": "sprites\\s_car_large\\s_car_large.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "71a7cd23-e8e6-42dd-8679-5156147de064",
+            "Value": {
+                "id": "7768ed4d-97f8-4885-b2b7-90a47cf62834",
+                "resourcePath": "sprites\\s_car_small\\s_car_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8738a908-8a10-4733-995b-45e405826732",
             "Value": {
                 "id": "72982e7e-4913-42da-993a-e11f7696950f",
@@ -183,10 +215,26 @@
             }
         },
         {
+            "Key": "96272388-a11c-4576-a215-b615defb95a5",
+            "Value": {
+                "id": "b663f7ce-0539-4f4e-9a53-554ff9dd5a43",
+                "resourcePath": "objects\\o_vehicles\\o_vehicles.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "96eeefe5-b09d-4c52-ae0b-b015774349af",
             "Value": {
                 "id": "710c537c-b951-49b5-836c-3522505649d1",
                 "resourcePath": "views\\96eeefe5-b09d-4c52-ae0b-b015774349af.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a047deef-492b-4313-a7ae-6620ee186c7a",
+            "Value": {
+                "id": "72f3e648-3d96-4bdb-b4ee-c48b2664ccfc",
+                "resourcePath": "views\\a047deef-492b-4313-a7ae-6620ee186c7a.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -196,6 +244,22 @@
                 "id": "db711b1d-1bc0-47ca-9160-5f9e8d0918aa",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "adf4e642-8858-4c45-87b8-4f39dedd4c5d",
+            "Value": {
+                "id": "2538f410-bf64-43ce-9b75-f08681bb6b23",
+                "resourcePath": "objects\\o_car_medium\\o_car_medium.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "af9010e3-02dd-4c14-9618-70e5da2e5057",
+            "Value": {
+                "id": "920d8002-6c73-470d-a0a6-473cadd9152f",
+                "resourcePath": "views\\af9010e3-02dd-4c14-9618-70e5da2e5057.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -220,6 +284,14 @@
                 "id": "4f4c9860-8410-418c-842c-327acfd80d01",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "da40e22a-254e-4182-8e4c-c276805de379",
+            "Value": {
+                "id": "6d5e95a7-0839-4c26-a48b-a1637c752450",
+                "resourcePath": "objects\\o_car_large\\o_car_large.yy",
+                "resourceType": "GMObject"
             }
         },
         {
